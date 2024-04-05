@@ -14,9 +14,9 @@ public class Main {
             System.out.println("Selamat datang di program CV. Labkomdas!");
             System.out.println("--------------------------------------------");
             System.out.println("Silahkan pilih jenis jaket yang diinginkan:");
-            System.out.println("1. Jaket A (harga normal : Rp. 100.000, harga diskon : Rp. 95.000");
-            System.out.println("2. Jaket B (harga normal : Rp. 125.000, harga diskon : Rp. 120.000");
-            System.out.println("3. Jaket C (harga normal : Rp. 175.000, harga diskon : Rp. 160.000");
+            System.out.println("1. Jaket A (harga normal : Rp. 100.000, harga diskon : Rp. 95.000)");
+            System.out.println("2. Jaket B (harga normal : Rp. 125.000, harga diskon : Rp. 120.000)");
+            System.out.println("3. Jaket C (harga normal : Rp. 175.000, harga diskon : Rp. 160.000)");
             System.out.println("--------------------------------------------");
 
             System.out.print("Pilih: ");
